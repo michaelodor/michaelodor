@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @michaelodor
-- 👀 I’m interested in development of mobile apps, flutter, godot; data analytics
+- 👀 I’m interested in development of mobile apps with flutter, games with godot, data analytics
 - 🌱 I’m currently learning spread sheets,SQL R, Tableau and data analytics
 - 💞️ I’m looking to collaborate on learn data analytics
 - 📫 How to reach me: michaelodor@web.de
